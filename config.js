@@ -1,16 +1,16 @@
 module.exports = {
-  title: 'Dev Blog', // Required
-  author: 'Ryan Fitzgerald', // Required
+  title: 'Test Blog', // Required
+  author: 'Thijs Kuilman', // Required
   description: 'Full-stack Web Developer',
   primaryColor: '#3498db', // Required
   showHeaderImage: true,
   showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
-    website: 'https://ryanfitzgerald.ca',
-    github: 'https://github.com/ryanfitzgerald',
-    twitter: 'https://twitter.com/ryanafitzgerald',
-    linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald',
+    website: 'https://thijskuilman.nl',
+    github: 'https://github.com/thijskuilman',
+    twitter: 'https://twitter.com/thijskuilman',
+    linkedin: 'https://nl.linkedin.com/in/thijs-kuilman-5a2369bb',
   },
   pathPrefix: '/devblog',
   siteUrl: 'https://ryanfitzgerald.github.io/devblog/',
