@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Test Blog 2', // Required
   author: 'Thijs Kuilman', // Required
-  description: 'Full-stack Web Developer',
+  description: 'Software engineer wonend in Groningen',
   primaryColor: '#3F51B5', // Required
   showHeaderImage: true,
   showShareButtons: true,
