@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Test Blog 2', // Required
+  title: 'Blog', // Required
   author: 'Thijs Kuilman', // Required
   description: 'Software engineer wonend in Groningen',
   primaryColor: '#3F51B5', // Required

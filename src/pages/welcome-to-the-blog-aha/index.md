@@ -1,5 +1,5 @@
 ---
-title: Just a Netlify + Gatsby test
+title: Lorem ipsum dolor sit amet
 date: "2018-07-01"
 featuredImage: './featured.jpg'
 ---
