@@ -1,10 +1,10 @@
 ---
-title: Welcome to the Blog!
+title: Just a Netlify + Gatsby test
 date: "2018-07-01"
 featuredImage: './featured.jpg'
 ---
 
-Welcome to the new blog, I hope you enjoy your stay! This is an example of how you can control what excerpt shows up.
+Lorem ipsum dolor sit amet.
 
 <!-- end -->
 
