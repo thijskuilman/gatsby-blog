@@ -1,0 +1,20 @@
+header {
+  padding: 100px 0 0px;
+
+  .avatar-wrapper {
+    border: 3px solid #3F51B5;
+    display:inline-block;
+  }
+
+  .avatar {
+    width: 125px;
+    height: 125px;
+    margin: 3px;
+  }
+}
+
+@media (min-width: 992px) {
+  header {
+    padding: 100px 0 0px;
+  }
+}
